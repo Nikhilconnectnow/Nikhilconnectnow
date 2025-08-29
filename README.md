@@ -259,7 +259,7 @@ I'm always excited to connect with fellow developers, discuss innovative project
 
 **📧 Email:** nikhil.connectnow@gmail.com  
 **📱 Phone:** +91-8398934643  
-**🌐 Portfolio:** [Coming Soon] - Building something spectacular!
+**🌐 Portfolio:** https://nikhilconnectnow.github.io/Portfolioo/
 
 </div>
 
